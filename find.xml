@@ -1,0 +1,43 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>D</mask>
+      <mask>*D</mask>
+      <mask>*DA</mask>
+      <mask>*DAO</mask>
+      <mask>*DAO.</mask>
+      <mask>*DAO.ja</mask>
+      <mask>*DAO.java</mask>
+      <mask>*c</mask>
+      <mask>*con</mask>
+      <mask>*cont</mask>
+      <mask>*contr</mask>
+      <mask>*contro</mask>
+      <mask>*control</mask>
+      <mask>*controll</mask>
+      <mask>*controller</mask>
+      <mask>*controller.</mask>
+      <mask>*controller.j</mask>
+      <mask>*controller.ja</mask>
+      <mask>*controller.jav</mask>
+      <mask>*controller.java</mask>
+      <mask>*</mask>
+      <mask>*f</mask>
+      <mask>*xml</mask>
+      <mask>*ftl</mask>
+    </recentFileMasks>
+  </component>
+</application>

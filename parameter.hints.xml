@@ -1,0 +1,12 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java" />
+      <blacklist language="Java">
+        <added pattern="akka.actor.ActorRefFactory.actorSelection(path)" />
+        <added pattern="akka.actor.ActorSystem.actorSelection(path)" />
+        <added pattern="encoder.file.OwfsWrapper.createUploadStream(ownerId,path,overwrite,reporter)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

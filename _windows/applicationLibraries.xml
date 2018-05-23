@@ -1,0 +1,147 @@
+<application>
+  <component name="libraryTable">
+    <library name="Python 2.7 (nspeeach_2) interpreter library">
+      <CLASSES>
+        <root url="file://C:/Python/venv/nspeeach_2/Lib" />
+        <root url="file://C:/Python/venv/nspeeach_2/Scripts" />
+        <root url="file://C:/Python27/Lib" />
+        <root url="file://C:/Python27/DLLs" />
+        <root url="file://C:/Python27/Lib/lib-tk" />
+        <root url="file://C:/Python/venv/nspeeach_2" />
+        <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages" />
+        <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/nspeech-0.1.dev0-py2.7.egg" />
+        <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/regex-2018.2.21-py2.7-win-amd64.egg" />
+        <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/fabric-2.0.1-py2.7.egg" />
+        <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/paramiko-2.4.1-py2.7.egg" />
+        <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/invoke-1.0.0-py2.7.egg" />
+        <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/cryptography-2.2.2-py2.7-win-amd64.egg" />
+        <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/PyNaCl-1.2.1-py2.7-win-amd64.egg" />
+        <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/pyasn1-0.4.2-py2.7.egg" />
+        <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/bcrypt-3.1.4-py2.7-win-amd64.egg" />
+        <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/six-1.11.0-py2.7.egg" />
+        <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/ipaddress-1.0.22-py2.7.egg" />
+        <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/idna-2.6-py2.7.egg" />
+        <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/enum34-1.1.6-py2.7.egg" />
+        <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/cffi-1.11.5-py2.7-win-amd64.egg" />
+        <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/asn1crypto-0.24.0-py2.7.egg" />
+        <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/pycparser-2.18-py2.7.egg" />
+        <root url="file://$USER_HOME$/.IdeaIC2017.3/system/python_stubs/413867947" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Python/venv/nspeeach_2/Lib" />
+        <root url="file://C:/Python/venv/nspeeach_2/Scripts" />
+        <root url="file://C:/Python27/Lib" />
+        <root url="file://C:/Python27/DLLs" />
+        <root url="file://C:/Python27/Lib/lib-tk" />
+        <root url="file://C:/Python/venv/nspeeach_2" />
+        <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages" />
+        <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/nspeech-0.1.dev0-py2.7.egg" />
+        <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/regex-2018.2.21-py2.7-win-amd64.egg" />
+        <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/fabric-2.0.1-py2.7.egg" />
+        <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/paramiko-2.4.1-py2.7.egg" />
+        <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/invoke-1.0.0-py2.7.egg" />
+        <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/cryptography-2.2.2-py2.7-win-amd64.egg" />
+        <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/PyNaCl-1.2.1-py2.7-win-amd64.egg" />
+        <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/pyasn1-0.4.2-py2.7.egg" />
+        <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/bcrypt-3.1.4-py2.7-win-amd64.egg" />
+        <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/six-1.11.0-py2.7.egg" />
+        <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/ipaddress-1.0.22-py2.7.egg" />
+        <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/idna-2.6-py2.7.egg" />
+        <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/enum34-1.1.6-py2.7.egg" />
+        <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/cffi-1.11.5-py2.7-win-amd64.egg" />
+        <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/asn1crypto-0.24.0-py2.7.egg" />
+        <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/pycparser-2.18-py2.7.egg" />
+        <root url="file://$USER_HOME$/.IdeaIC2017.3/system/python_stubs/413867947" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.6 (codingtest) interpreter library">
+      <CLASSES>
+        <root url="file://C:/dev/workplace/codingtest/venv/Lib" />
+        <root url="file://C:/dev/workplace/codingtest/venv/Scripts" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/DLLs" />
+        <root url="file://C:/dev/workplace/codingtest/venv" />
+        <root url="file://C:/dev/workplace/codingtest/venv/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IdeaIC2017.3/system/python_stubs/1656594007" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.6" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.5" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.4" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/dev/workplace/codingtest/venv/Lib" />
+        <root url="file://C:/dev/workplace/codingtest/venv/Scripts" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/DLLs" />
+        <root url="file://C:/dev/workplace/codingtest/venv" />
+        <root url="file://C:/dev/workplace/codingtest/venv/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IdeaIC2017.3/system/python_stubs/1656594007" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.6" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.5" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.4" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.6 virtualenv at C:\Python\venv\clova_3 interpreter library">
+      <CLASSES>
+        <root url="file://C:/dev/workplace/clovaes/clova-chat-server/venv/Lib" />
+        <root url="file://C:/dev/workplace/clovaes/clova-chat-server/venv/Scripts" />
+        <root url="file://C:/Program Files/Python36/Lib" />
+        <root url="file://C:/Program Files/Python36/DLLs" />
+        <root url="file://C:/dev/workplace/clovaes/clova-chat-server/venv" />
+        <root url="file://C:/dev/workplace/clovaes/clova-chat-server/venv/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IdeaIC2017.3/system/python_stubs/1924099441" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.6" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.5" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.4" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/dev/workplace/clovaes/clova-chat-server/venv/Lib" />
+        <root url="file://C:/dev/workplace/clovaes/clova-chat-server/venv/Scripts" />
+        <root url="file://C:/Program Files/Python36/Lib" />
+        <root url="file://C:/Program Files/Python36/DLLs" />
+        <root url="file://C:/dev/workplace/clovaes/clova-chat-server/venv" />
+        <root url="file://C:/dev/workplace/clovaes/clova-chat-server/venv/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IdeaIC2017.3/system/python_stubs/1924099441" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.6" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.5" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.4" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+  </component>
+</application>

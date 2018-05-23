@@ -1,0 +1,178 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="1.8" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_144&quot;" />
+      <homePath value="C:\Program Files\Java\jdk1.8.0_144" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_144/jre/lib/charsets.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_144/jre/lib/deploy.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_144/jre/lib/ext/access-bridge-64.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_144/jre/lib/ext/cldrdata.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_144/jre/lib/ext/dnsns.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_144/jre/lib/ext/jaccess.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_144/jre/lib/ext/jfxrt.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_144/jre/lib/ext/localedata.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_144/jre/lib/ext/nashorn.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_144/jre/lib/ext/sunec.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_144/jre/lib/ext/sunjce_provider.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_144/jre/lib/ext/sunmscapi.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_144/jre/lib/ext/sunpkcs11.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_144/jre/lib/ext/zipfs.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_144/jre/lib/javaws.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_144/jre/lib/jce.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_144/jre/lib/jfr.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_144/jre/lib/jfxswt.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_144/jre/lib/jsse.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_144/jre/lib/management-agent.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_144/jre/lib/plugin.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_144/jre/lib/resources.jar!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_144/jre/lib/rt.jar!/" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/" type="simple" />
+            <root url="jar://C:/Program Files/Java/jdk1.8.0_144/javafx-src.zip!/" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (codingtest)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.5" />
+      <homePath value="C:\dev\workplace\codingtest\venv\Scripts\python.exe" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/dev/workplace/codingtest/venv/Lib" type="simple" />
+            <root url="file://C:/dev/workplace/codingtest/venv/Scripts" type="simple" />
+            <root url="file://C:/dev/workplace/codingtest/venv" type="simple" />
+            <root url="file://C:/dev/workplace/codingtest/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.IdeaIC2017.3/system/python_stubs/1656594007" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/dev/workplace/codingtest" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 virtualenv at C:\Python\venv\clova_3" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.5" />
+      <homePath value="C:\Python\venv\clova_3\Scripts\python.exe" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Program Files/Python36/DLLs" type="simple" />
+            <root url="file://C:/Program Files/Python36/Lib" type="simple" />
+            <root url="file://C:/Program Files/Python36" type="simple" />
+            <root url="file://C:/Python/venv/clova_3" type="simple" />
+            <root url="file://C:/Python/venv/clova_3/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.IdeaIC2017.3/system/python_stubs/246227470" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/dev/workplace/clovaes/clova-chat-server" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (nspeeach_2)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.15" />
+      <homePath value="C:\Python\venv\nspeeach_2\Scripts\python.exe" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python/venv/nspeeach_2/Lib" type="simple" />
+            <root url="file://C:/Python/venv/nspeeach_2/Scripts" type="simple" />
+            <root url="file://C:/Python27/Lib" type="simple" />
+            <root url="file://C:/Python27/DLLs" type="simple" />
+            <root url="file://C:/Python27/Lib/lib-tk" type="simple" />
+            <root url="file://C:/Python/venv/nspeeach_2" type="simple" />
+            <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages" type="simple" />
+            <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/nspeech-0.1.dev0-py2.7.egg" type="simple" />
+            <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/regex-2018.2.21-py2.7-win-amd64.egg" type="simple" />
+            <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/fabric-2.0.1-py2.7.egg" type="simple" />
+            <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/paramiko-2.4.1-py2.7.egg" type="simple" />
+            <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/invoke-1.0.0-py2.7.egg" type="simple" />
+            <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/cryptography-2.2.2-py2.7-win-amd64.egg" type="simple" />
+            <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/PyNaCl-1.2.1-py2.7-win-amd64.egg" type="simple" />
+            <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/pyasn1-0.4.2-py2.7.egg" type="simple" />
+            <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/bcrypt-3.1.4-py2.7-win-amd64.egg" type="simple" />
+            <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/six-1.11.0-py2.7.egg" type="simple" />
+            <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/ipaddress-1.0.22-py2.7.egg" type="simple" />
+            <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/idna-2.6-py2.7.egg" type="simple" />
+            <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/enum34-1.1.6-py2.7.egg" type="simple" />
+            <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/cffi-1.11.5-py2.7-win-amd64.egg" type="simple" />
+            <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/asn1crypto-0.24.0-py2.7.egg" type="simple" />
+            <root url="file://C:/Python/venv/nspeeach_2/Lib/site-packages/pycparser-2.18-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.IdeaIC2017.3/system/python_stubs/413867947" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/dev/workplace/clovaes/NSASR-pynspeech" />
+    </jdk>
+  </component>
+</application>
