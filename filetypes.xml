@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="pc" type="PLAIN_TEXT" />
+      <mapping pattern="Contribution" type="PLAIN_TEXT" />
       <mapping pattern="aa" type="PLAIN_TEXT" />
       <mapping ext="nhn" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
