@@ -12,6 +12,9 @@
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
