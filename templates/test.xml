@@ -1,5 +1,5 @@
 <templateSet group="test">
-  <template name="rmo" value="@org.junit.runner.RunWith(org.mockito.runners.MockitoJUnitRunner.class)" description="runwith mockito" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <template name="rmo" value="@org.junit.runner.RunWith(org.mockito.junit.MockitoJUnitRunner.class)" description="runwith mockito" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
