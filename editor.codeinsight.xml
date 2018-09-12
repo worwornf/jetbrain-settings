@@ -3,6 +3,5 @@
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
     <EXCLUDED_PACKAGE NAME="org.assertj.core.api.AssertionsForInterfaceTypes.assertThat" />
     <EXCLUDED_PACKAGE NAME="org.assertj.core.api.Java6Assertions.assertThat" />
-    <EXCLUDED_PACKAGE NAME="org.hamcrest.MatcherAssert.assertThat" />
   </component>
 </application>
