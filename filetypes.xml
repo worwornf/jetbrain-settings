@@ -6,6 +6,7 @@
       <mapping pattern="Contribution" type="PLAIN_TEXT" />
       <mapping pattern="aa" type="PLAIN_TEXT" />
       <mapping ext="nhn" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="mwb" type="PLAIN_TEXT" />
