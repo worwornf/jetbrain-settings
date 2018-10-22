@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://sonarqube001-step-jp2v-dev.lineinfra-dev.com:9000" />
+          <option name="name" value="step" />
+          <option name="login" value="admin" />
+          <password>dfcedfcbdfdadfdadf98dff5dfe7dfccdf9edf9bdfdcdfea</password>
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
